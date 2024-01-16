@@ -1,0 +1,3 @@
+2. void methode()
+6. void methode(int a, char b)
+7. int methode(int a, char b,float c)
